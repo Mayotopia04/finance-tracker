@@ -1,13 +1,31 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/Mayotopia04/expense-tracker/static/css/main.b05433f1.css",
+    "main.js": "/Mayotopia04/expense-tracker/static/js/main.49e2f745.js",
+    "static/css/735.c4545e4e.chunk.css": "/Mayotopia04/expense-tracker/static/css/735.c4545e4e.chunk.css",
+    "static/js/735.e02de5f3.chunk.js": "/Mayotopia04/expense-tracker/static/js/735.e02de5f3.chunk.js",
+    "static/css/488.bf193020.chunk.css": "/Mayotopia04/expense-tracker/static/css/488.bf193020.chunk.css",
+    "static/js/488.abfd82f4.chunk.js": "/Mayotopia04/expense-tracker/static/js/488.abfd82f4.chunk.js",
+    "static/css/268.f3e1d98e.chunk.css": "/Mayotopia04/expense-tracker/static/css/268.f3e1d98e.chunk.css",
+    "static/js/268.b68c766a.chunk.js": "/Mayotopia04/expense-tracker/static/js/268.b68c766a.chunk.js",
+    "static/js/217.f619dcde.chunk.js": "/Mayotopia04/expense-tracker/static/js/217.f619dcde.chunk.js",
+    "static/js/50.b6ed7391.chunk.js": "/Mayotopia04/expense-tracker/static/js/50.b6ed7391.chunk.js",
+    "static/media/fonnts.com-Suisse_Intl_Regular.ttf": "/Mayotopia04/expense-tracker/static/media/fonnts.com-Suisse_Intl_Regular.63381689849f5cf35a17.ttf",
+    "static/media/icons.svg": "/Mayotopia04/expense-tracker/static/media/icons.e2ce4a45f46652b99750b95e40fabf06.svg",
+    "index.html": "/Mayotopia04/expense-tracker/index.html",
+    "main.b05433f1.css.map": "/Mayotopia04/expense-tracker/static/css/main.b05433f1.css.map",
+    "main.49e2f745.js.map": "/Mayotopia04/expense-tracker/static/js/main.49e2f745.js.map",
+    "735.c4545e4e.chunk.css.map": "/Mayotopia04/expense-tracker/static/css/735.c4545e4e.chunk.css.map",
+    "735.e02de5f3.chunk.js.map": "/Mayotopia04/expense-tracker/static/js/735.e02de5f3.chunk.js.map",
+    "488.bf193020.chunk.css.map": "/Mayotopia04/expense-tracker/static/css/488.bf193020.chunk.css.map",
+    "488.abfd82f4.chunk.js.map": "/Mayotopia04/expense-tracker/static/js/488.abfd82f4.chunk.js.map",
+    "268.f3e1d98e.chunk.css.map": "/Mayotopia04/expense-tracker/static/css/268.f3e1d98e.chunk.css.map",
+    "268.b68c766a.chunk.js.map": "/Mayotopia04/expense-tracker/static/js/268.b68c766a.chunk.js.map",
+    "217.f619dcde.chunk.js.map": "/Mayotopia04/expense-tracker/static/js/217.f619dcde.chunk.js.map",
+    "50.b6ed7391.chunk.js.map": "/Mayotopia04/expense-tracker/static/js/50.b6ed7391.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.b05433f1.css",
+    "static/js/main.49e2f745.js"
   ]
 }
